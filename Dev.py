@@ -3,4 +3,8 @@ print("hello Python")
 
 # COMMAND ----------
 
+print("Databricks")
+
+# COMMAND ----------
+
 
